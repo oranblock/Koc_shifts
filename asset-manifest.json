@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Koc_shifts/static/css/main.0579fb9e.css",
-    "main.js": "/Koc_shifts/static/js/main.11e50f57.js",
+    "main.css": "/Koc_shifts/static/css/main.cb04c686.css",
+    "main.js": "/Koc_shifts/static/js/main.e125d370.js",
     "index.html": "/Koc_shifts/index.html",
-    "main.0579fb9e.css.map": "/Koc_shifts/static/css/main.0579fb9e.css.map",
-    "main.11e50f57.js.map": "/Koc_shifts/static/js/main.11e50f57.js.map"
+    "main.cb04c686.css.map": "/Koc_shifts/static/css/main.cb04c686.css.map",
+    "main.e125d370.js.map": "/Koc_shifts/static/js/main.e125d370.js.map"
   },
   "entrypoints": [
-    "static/css/main.0579fb9e.css",
-    "static/js/main.11e50f57.js"
+    "static/css/main.cb04c686.css",
+    "static/js/main.e125d370.js"
   ]
 }
