@@ -1,0 +1,6 @@
+
+/* Basic styles for Vacation component */
+.container {
+    display: flex;
+    flex-direction: column;
+}

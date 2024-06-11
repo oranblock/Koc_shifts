@@ -1,0 +1,27 @@
+nav {
+    background-color: #333;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto; /* Allows horizontal scrolling if items don't fit */
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 1em;
+    white-space: nowrap; /* Prevents wrapping */
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
